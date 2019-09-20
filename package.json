@@ -1,0 +1,26 @@
+{
+  "name": "vue-lazy-load",
+  "version": "1.0.0",
+  "description": "Vue component to wrap non lazy loading friendly components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunecosuri/vue-lazy-load.git"
+  },
+  "keywords": [
+    "vue",
+    "lazyload"
+  ],
+  "author": "sunecosuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunecosuri/vue-lazy-load/issues"
+  },
+  "homepage": "https://github.com/sunecosuri/vue-lazy-load#readme",
+  "dependencies": {
+    "lazysizes": "^5.1.1"
+  }
+}
