@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/sunecosuri/vue-lazy-load#readme",
   "dependencies": {
-    "lazysizes": "^5.1.1"
+    "lazysizes": "^5.2.1"
   }
 }
